@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaveOrangeAnimator
+  m_Controller: {fileID: 9100000, guid: fff4530ac92645a46ae5a46a5eba747c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d72239a7fd5a48247b2bdba9461d7af9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c18e92c7a3c0086429b241d4b9c77bae, type: 2}
